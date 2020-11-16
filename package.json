@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mdeeb2/eslint-dev-environment/issues"
   },
-  "homepage": "https://github.com/mdeeb2/eslint-dev-environment#readme"
+  "homepage": "https://github.com/mdeeb2/eslint-dev-environment#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
